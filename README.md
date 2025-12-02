@@ -1,4 +1,4 @@
-# 🌤️ **Simple Weather Finder**
+# 🌤️ **Weather Report App**
 
 A beginner Python app that fetches real-time weather using the **OpenWeather API**.  
 
