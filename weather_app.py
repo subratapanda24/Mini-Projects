@@ -1,7 +1,7 @@
 import requests
 
 """
-Project: Simple Weather Finder
+Project: Weather Report App
 Author: Subrata Panda
 """
 
@@ -59,7 +59,7 @@ class WeatherApp:
 
 API_KEY = "YOUR_API_KEY"
 
-print("Simple Weather Finder")
+print("Weather Report App")
 print("Project by: Subrata Panda")
 print("Idea/Suggestion: Beginner API Learning Project\n")
 
@@ -67,3 +67,4 @@ city = input("Enter city name: ")
 
 app = WeatherApp(API_KEY)
 app.display_weather(city)
+
