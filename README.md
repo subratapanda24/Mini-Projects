@@ -2,12 +2,13 @@
 
 A beginner Python app that fetches real-time weather using the **OpenWeather API**.  
 
-**Features:** City search, temperature, humidity, wind speed, pressure, and condition display.  
-**Tech:** Python, Requests, OpenWeather API.  
-**Run:** `pip install requests` → add your API key in `main.py` → `python main.py`  
-**Future Work:** Forecast view, GUI interface, city search history.  
-**Author:** Subrata Panda
+**Features:** City search, temperature, humidity, wind speed, pressure, and condition display.
 
+**Tech:** Python, Requests, OpenWeather API.  
+
+**Run:** `pip install requests` → add your API key in `main.py` → `python main.py`  
+
+**Future Work:** Forecast view, GUI interface, city search history.  
 
 -------------------------------------------------------------
 
@@ -15,14 +16,9 @@ A beginner Python app that fetches real-time weather using the **OpenWeather API
 
 A simple Python command-line game where the player competes against the computer.
 
-**Features:**
-- User vs computer gameplay
-- Input validation for safe play
-- Win / lose / draw logic
+**Features:** User vs computer gameplay, Input validation for safe play, (Win / lose / draw logic)
 
-**Tech:**
-- Python
-- Random module
+**Tech:** Python, Random module
 
 **How to run:**
 1. Navigate to the project folder  
