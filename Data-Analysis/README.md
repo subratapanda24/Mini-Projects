@@ -4,6 +4,6 @@ A Python-based data analysis project to explore sales performance across months,
 
 **Features:** Revenue calculation, Monthly trend analysis, Region-wise and product-wise comparison, Clean visualizations (line & bar charts).
 
-**Tech:** Python, NumPy, Pandas, Matplotlib
+**Tech:**  NumPy, Pandas, Matplotlib
 
 **Author:** Subrata Panda
