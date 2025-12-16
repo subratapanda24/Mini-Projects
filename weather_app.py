@@ -3,6 +3,7 @@ import requests
 """
 Project: Weather Report App
 Author: Subrata Panda
+
 """
 
 class WeatherApp:
