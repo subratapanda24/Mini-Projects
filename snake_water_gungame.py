@@ -1,4 +1,4 @@
-## Snake Water Gun Game 
+# Snake Water Gun Game 
 import random
 
 choices = ["s", "w", "g"]
